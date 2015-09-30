@@ -576,6 +576,8 @@ html, body {
     text-align:center
 }
 .header-site .site-title {
+    font-family: 'Offside', sane-serif;
+    text-transform: lowercase;
     font-size:3.75rem;
     line-height:1;
     margin-top:-80px;
