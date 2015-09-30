@@ -273,6 +273,7 @@ a.slideButton, .dosearch {
     left:10px
 }
 .dosearch {
+    display: none;
     right:10px;
     background:#0558c6;
     border-radius:.188rem;
