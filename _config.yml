@@ -1,17 +1,16 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: Learning fromt the source
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.source.institute" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Salim Virani
+user_description: 
+user_title: 
+email: salim@source.institute
+twitter_username: saintsal
+github_username:  saintsal
+disqus_username: saintsal
 
 # Build settings
 markdown: kramdown
