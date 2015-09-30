@@ -577,6 +577,7 @@ html, body {
 .header-site .site-title {
     font-family: 'Offside', sane-serif;
     text-transform: lowercase;
+    color: #fff;
     line-height:1;
     margin-top:-80px;
     display:block;
@@ -584,7 +585,7 @@ html, body {
 @media only screen and (min-width:37.5rem) {
     .header-site .site-title {
         margin-bottom:0;
-        font-size:6.25rem
+        font-size:3.25rem
     }
 }
 .header-site .site-description {
