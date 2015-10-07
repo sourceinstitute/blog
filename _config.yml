@@ -1,16 +1,15 @@
 # Site settings
-description: Learning fromt the source
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Learning from the source
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.source.institute" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Salim Virani
-user_description: 
+username: Source Institute
+user_description :
 user_title: 
-email: salim@source.institute
-twitter_username: saintsal
-github_username:  saintsal
-disqus_username: saintsal
+email: info@source.institute
+twitter_username: sourceinst
+
 
 # Build settings
 markdown: kramdown
