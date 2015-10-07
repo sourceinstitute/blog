@@ -5,7 +5,7 @@ url: "http://blog.source.institute" # the base hostname & protocol for your site
 
 # User settings
 username: Source Institute
-user_description :
+user_description : Lessons from the source
 user_title: 
 email: info@source.institute
 twitter_username: sourceinst
