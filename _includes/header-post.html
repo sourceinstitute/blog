@@ -1,4 +1,8 @@
-<header class="header-post" role="banner">
+<header class="header-post" role="banner" 
+  {% if page.head_image %}
+    style="background: url(/assets/img/post_header_images/{{page.head_image}}) no-repeat; background-size:cover; max-width:100%;"
+  {% endif %}
+>
     <div class="content">
         {% if page.date %}
             <time itemprop="datePublished" datetime="{{ page.date }}" class="date">{{ page.date | date_to_string }}</time>
