@@ -221,6 +221,9 @@ h1, h2, h3, h4 {
     width:18px;
     height:18px;
 }
+.icons-about a .icon{
+    fill:#000;
+}
 .icons-home a .icon-author {
     fill:#000;
 }
