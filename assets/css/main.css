@@ -1479,6 +1479,13 @@ pre span {
     text-decoration:none;
     color:#18C953
 }
+
+.subscribe-wrapper h2{
+    width: auto;
+    max-width: 800px;
+    margin: auto;
+    padding-left: 20px;
+}
 .comments {
     *zoom:1;
     width:auto;
