@@ -4,7 +4,7 @@ title: "I promise I won't be like Uber in Africa"
 date: 2015-10-30 10:04:18
 image: '/assets/img/'
 head_image: 
-description:
+description: "Major technology companies constantly make the same mistakes in African markets. Why do so many startups make them too?"
 tags:
 categories:
 twitter_text: "I promise I won\'t be like Uber in Africa"
