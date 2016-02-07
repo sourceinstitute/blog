@@ -6,10 +6,7 @@ image: '/assets/img/'
 head_image: entrepreneurship_alchemy.png
 description: "the future of impactful technology development"
 tags:
-- startup
-- growth
 categories:
-- Startup Ecosystem
 twitter_text: "Engineering and entrepreneurship alchemy"
 ---
 
