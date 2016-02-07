@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Engineering and entrepreneurship alchemy"
-date: 2016-02-06 08:04:18
+date: 2016-02-07 08:04:18
 image: '/assets/img/'
-head_image: ap-trafic-jam.jpg
+head_image: entrepreneurship_alchemy.png
 description: "the future of impactful technology development"
 tags:
 categories:
