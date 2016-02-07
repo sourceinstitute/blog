@@ -13,7 +13,7 @@ twitter_username: sourceinst
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 
